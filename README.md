@@ -3,7 +3,7 @@
 This is a simple Todo List application built using React. The application allows users to add and delete tasks from their todo list.
 
 ## Live Demo
-   ou can view the live demo of the application [here](https://pk1331.github.io/TodoList-using-React/)
+   You can view the live demo of the application [here](https://pk1331.github.io/TodoList-using-React/)
 
 ## Features
 
